@@ -1,5 +1,7 @@
 # Publications-in-Applied-Artificial-Intelligence-AI-
-#### AI biosecurity risks
+
+#AI and biosecurity:
+
 1- Sitani D, ElSayed M, Arrey F, Schutz H, Held S. (2026). HydraWatch: Embedding-based wastewater pathogen surveillance for federated hospital networks. AIxBio Hackathon Track 2, Apart Research. https://github.com/Divya1205/Hydra_Watch_AIxBio2026
 
 ####Applied Artificial Intelligence (AI) in Electromagnetic Compatibility (EMC):
