@@ -1,4 +1,4 @@
-# Publications-in-Applied-Artificial-Intelligence-AI-
+# Publications-in-Applied-Artificial-Intelligence-AI
 
 ####AI and biosecurity:
 
