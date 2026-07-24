@@ -1,11 +1,13 @@
 # Publications-in-Applied-Artificial-Intelligence-AI
 
-####AI and biosecurity:
+#### AI Safety and biosecurity:
 
-1- Sitani D, ElSayed M, Arrey F, Schutz H, Held S. (2026). HydraWatch: Embedding-based wastewater pathogen surveillance for federated hospital networks. AIxBio Hackathon Track 2, Apart Research. https://github.com/Divya1205/Hydra_Watch_AIxBio2026
+1- Taming “The Prince” — Performance of LLM Agents Told to Empower Humans in the MACHIAVELLI Benchmark, The 41st Annual AAAI Conference on Artificial Intelligence FEBRUARY 16 – FEBRUARY 23, 2027 | MONTRÉAL, CANADA
+
+2- Sitani D, ElSayed M, Arrey F, Schutz H, Held S. (2026). HydraWatch: Embedding-based wastewater pathogen surveillance for federated hospital networks. AIxBio Hackathon Track 2, Apart Research. https://github.com/Divya1205/Hydra_Watch_AIxBio2026
 https://apartresearch.com/project/hydra-watch-federated-wastewater-pathogen-surveillance-with-foundationmodel-embeddings-rjor
 
-####Applied Artificial Intelligence (AI) in Electromagnetic Compatibility (EMC):
+#### Applied Artificial Intelligence (AI) in Electromagnetic Compatibility (EMC):
 
 2- I. Cahani, R. Ueltzen, M. ElSayed, E. Kampert, M. Stiemer "Machine Learning Supported Detection of Incoupling Interfering Signals Through Autoencoder" to EMC Europe 2025 Conference, Francce.
 
