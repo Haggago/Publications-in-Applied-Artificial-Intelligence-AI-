@@ -1,6 +1,6 @@
 # Publications-in-Applied-Artificial-Intelligence-AI
 
-#### AI Safety and biosecurity:
+#### AI Safety and Biosecurity:
 
 1- Taming “The Prince” — Performance of LLM Agents Told to Empower Humans in the MACHIAVELLI Benchmark, The 41st Annual AAAI Conference on Artificial Intelligence FEBRUARY 16 – FEBRUARY 23, 2027 | MONTRÉAL, CANADA
 
