@@ -2,7 +2,8 @@
 
 #### AI Safety and Biosecurity:
 
-1- Taming “The Prince” — Performance of LLM Agents Told to Empower Humans in the MACHIAVELLI Benchmark, The 41st Annual AAAI Conference on Artificial Intelligence FEBRUARY 16 – FEBRUARY 23, 2027 | MONTRÉAL, CANADA
+1- Human-Empowering Agents: Advancing the Human Empowerment Approach to Safe AI Agents — Manuscript under review at a top-tier AI conference (2026).
+
 
 2- Sitani, D., ElSayed, M., Arrey, F., Schutz, H., & Held, S. (2026). HydraWatch: Embedding-Based Wastewater Pathogen Surveillance for Federated Hospital Networks. AIxBio Hackathon, Track 2, Apart Research — 1st Place Track Winner. The project was subsequently accepted as a poster presentation at the International Conference on Machine Learning (ICML) 2026.
 
