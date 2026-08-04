@@ -21,4 +21,4 @@ Electromagnetic Interference" EMC Europe 2025 Conference, France.
 
 4- M. Stiemer, M. Hagel, U. Aizpurua, M. ElSayed, and I. Cahani, “Machine learning based data analysis for electromagnetic reverberation chambers”, Kleinheubach Conference, 2023, Germany.
 
-5- Eden T. Tulu, M. Stiemer, M. ElSayed, I. Cahani “Machine learning based classification and prediction of electromagnetic absorption in electrical reverberation chambers”, URSI GASS 2023 Conference, Page 87 in program book, Japan
+5- Eden T. Tulu, M. Stiemer, M. ElSayed, I. Cahani “Machine learning based classification and prediction of electromagnetic absorption in electrical reverberation chambers”, URSI GASS 2023 Conference, Page 87 in program book, Japan https://www.ursi.org/proceedings/procGA23/GASS2023-authors.html
