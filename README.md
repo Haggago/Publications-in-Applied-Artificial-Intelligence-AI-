@@ -15,7 +15,7 @@ Project page: https://apartresearch.com/project/hydra-watch-federated-wastewater
 1- I. Cahani, R. Ueltzen, M. ElSayed, E. Kampert, M. Stiemer "Machine Learning Supported Detection of Incoupling Interfering Signals Through Autoencoder" to EMC Europe 2025 Conference, Francce.
 
 2- R. Ueltzen, I. Cahani, M. ElSayed, E. Kampert, M. Stiemer "LSTM-Based Anomaly Detection for Sensor Data Affected by
-Electromagnetic Interference" Accepted to EMC Europe 2025 Conference, France.
+Electromagnetic Interference" EMC Europe 2025 Conference, France.
 
 3- U. Aizpurua, T. Brandt, M. ElSayed, M. Hagel, E. Kampert, S. Kulkarni, S. Schenke, M. Wendt, S. Dickmann, K. F. Hoffmann, M. Stiemer “A Cross-Domain Electromagnetic Compatibility Data Platform for the Digital Development of Automated Vehicles”, ESAS -HSU, dtec.bw, Sammelband Beitrag, openHSU, 2024, Germany.
 
