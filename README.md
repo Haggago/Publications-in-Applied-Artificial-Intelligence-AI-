@@ -2,7 +2,7 @@
 
 #### AI Safety and Biosecurity:
 
-1- Human-Empowering Agents: Advancing the Human Empowerment Approach to Safe AI Agents — Manuscript under review at a top-tier AI conference (2027).
+1- Human-Empowering Agents: Advancing the Human Empowerment Approach to Safe AI Agents — Co-authored Manuscript under review at AAAI 2027, a leading top-tier AI conference.
 
 
 2- Sitani, D., ElSayed, M., Arrey, F., Schutz, H., & Held, S. (2026). HydraWatch: Embedding-Based Wastewater Pathogen Surveillance for Federated Hospital Networks. AIxBio Hackathon, Track 2, Apart Research — 1st Place Track Winner 🏆. The project was subsequently accepted as a poster presentation at the International Conference on Machine Learning (ICML) 2026: https://icml.cc/virtual/2026/76472.
